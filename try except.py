@@ -17,6 +17,6 @@ except Exception as e:
     print('something went wrong',':',e)
 
 finally:
-    print('resource closed')
+    print('resource closed')#d
 
 print('bye')
