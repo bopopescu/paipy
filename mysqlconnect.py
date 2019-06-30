@@ -8,5 +8,5 @@ mycursor.execute("select * from users")
 
 result = mycursor.fetchall()
 
-for i in result:  # PUSH TEST
+for i in result:  # PUSH TEST gxfgxfhhfh
     print(i)
